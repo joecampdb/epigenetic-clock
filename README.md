@@ -1,3 +1,5 @@
+## The GTEX primary dataset can be conferred upon request.
+
 # Muscle Epigenetic Clock
 
 A DNA methylation-based age prediction model for human skeletal muscle tissue, built from GTEx consortium data using penalized regression with rigorous cross-validation.
